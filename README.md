@@ -6,7 +6,7 @@ An object-oriented, non-blocking Arduino library designed to manage infrared (IR
 
 
 
-## 🚀 Features
+## Features
 
 
 
@@ -16,7 +16,7 @@ An object-oriented, non-blocking Arduino library designed to manage infrared (IR
 
 
 
-## 📦 Installation
+## Installation
 
 
 
@@ -28,7 +28,7 @@ An object-oriented, non-blocking Arduino library designed to manage infrared (IR
 
 
 
-## 🔌 Basic Wiring
+## Basic Wiring
 
 
 
